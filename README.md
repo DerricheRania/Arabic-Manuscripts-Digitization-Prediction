@@ -24,9 +24,9 @@ Task: Handwritten Arabic text recognition
 
 Datasets:
 
-    - PFE custom dataset (curated and manually labeled)
+- PFE custom dataset (curated and manually labeled)
 
-    - Datahon challenge dataset (for additional training and testing)
+- Datahon challenge dataset (for additional training and testing)
 
 Languages: Python
 
@@ -50,12 +50,13 @@ Output: Digitized Arabic text extracted from manuscript images
 
 The model achieved strong recognition accuracy in both academic (PFE) and competitive (Datahon) contexts, highlighting its potential to support Arabic cultural preservation and digital archiving efforts.
 
+**📚 Future Work**
+
+- Expand dataset with historical manuscripts
+
+- Explore transformer-based architectures for improved accuracy
+
+- Develop a user-friendly web application for real-time text extraction
+
 **🔗 More details and project insights are available on my LinkedIn:**
-👉 **https://www.linkedin.com/posts/rania-derriche-432b7b247_graduation-deeplearning-ocr-activity-7342712668895539201-TnBU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD04N6YBCAuDDYaifI6FQuUzYo-iRXkspQs**
-
-Explore transformer-based architectures for improved accuracy
-
-Develop a user-friendly web application for real-time text extraction
-
-🔗 More details and project insights are available on my LinkedIn:
-👉 Visit my LinkedIn profile
+**👉 https://www.linkedin.com/posts/rania-derriche-432b7b247_graduation-deeplearning-ocr-activity-7342712668895539201-TnBU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD04N6YBCAuDDYaifI6FQuUzYo-iRXkspQs**
