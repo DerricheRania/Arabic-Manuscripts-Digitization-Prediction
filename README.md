@@ -1,6 +1,7 @@
 # Arabic-Manuscripts-Digitization-Prediction
 
-#🕌 Arabic Manuscript Digitization#
+**🕌 Arabic Manuscript Digitization**
+
 **📘 Overview**
 
 This project focuses on digitizing Arabic manuscripts by converting handwritten Arabic text into machine-readable text using Deep Learning techniques. Originally developed as part of my Final Year Project (PFE), the goal was to build an end-to-end AI model capable of recognizing and transcribing Arabic handwriting with high accuracy.
